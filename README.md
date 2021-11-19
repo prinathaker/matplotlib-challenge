@@ -1,5 +1,15 @@
 # Matplotlib Homework - The Power of Plots
 
+## Written Observation
+
+1. There is only one duplicate mouse data in the data set
+2. Total number of mice on each drug is between 20-25
+3. Number of Female mice is about 1% less then Male mice or is almost equally distributed
+4. Tumor Volume of Mice decreases over Time Spent
+5. Weight of mice and Tumor volume increases over Linear Regression and Corelation
+
+
+
 ## Background
 
 What good is data without a good plot to tell the story?
